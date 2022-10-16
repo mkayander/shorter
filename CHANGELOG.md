@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/mkayander/shorter/compare/v1.0.0...v1.1.0) (2022-10-16)
+
+
+### Features
+
+* Updated README.md ([67961d7](https://github.com/mkayander/shorter/commit/67961d7d76167771d1851352203bfc7d8173fb6d))
+
 # 1.0.0 (2022-10-16)
 
 
