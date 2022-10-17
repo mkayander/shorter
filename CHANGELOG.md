@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/mkayander/shorter/compare/v1.1.0...v1.2.0) (2022-10-17)
+
+
+### Features
+
+* Initial Prisma setup ([5bec6a6](https://github.com/mkayander/shorter/commit/5bec6a645475cdac4f4698a33c378d5674991df8))
+
 # [1.1.0](https://github.com/mkayander/shorter/compare/v1.0.0...v1.1.0) (2022-10-16)
 
 
