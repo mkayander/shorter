@@ -1,3 +1,13 @@
+# [1.3.0](https://github.com/mkayander/shorter/compare/v1.2.0...v1.3.0) (2022-10-17)
+
+
+### Features
+
+* Added basic getUrl api endpoint ([75c9b0e](https://github.com/mkayander/shorter/commit/75c9b0e4bae66aebe86f8245c15affe976e8d16b))
+* Added prettier IDE meta config file ([d8b5b7b](https://github.com/mkayander/shorter/commit/d8b5b7be788e5d060755791eaa8d279d5e164abb))
+* Added prisma client instance ([2e595a2](https://github.com/mkayander/shorter/commit/2e595a2e595310f39df30e9fe089a81b86259911))
+* Installed prettier & prisma client ([cf9d931](https://github.com/mkayander/shorter/commit/cf9d931ad60745ea5d72a1a3245ad81d32779246))
+
 # [1.2.0](https://github.com/mkayander/shorter/compare/v1.1.0...v1.2.0) (2022-10-17)
 
 
