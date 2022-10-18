@@ -28,7 +28,7 @@ const getUrl = async (req: NextApiRequest, res: NextApiResponse) => {
     return;
   }
 
-  return res.redirect(data.url);
+  return res.json(data);
 };
 
 export default getUrl;
