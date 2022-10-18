@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/mkayander/shorter/compare/v1.3.0...v1.4.0) (2022-10-18)
+
+
+### Features
+
+* Implement a Next middleware that performs the api fetch and the redirect ([23fc47c](https://github.com/mkayander/shorter/commit/23fc47c0ffb818f11328e2ed418886aaf4dd0832))
+
 # [1.3.0](https://github.com/mkayander/shorter/compare/v1.2.0...v1.3.0) (2022-10-17)
 
 
