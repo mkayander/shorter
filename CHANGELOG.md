@@ -1,3 +1,12 @@
+# [1.5.0](https://github.com/mkayander/shorter/compare/v1.4.0...v1.5.0) (2022-11-01)
+
+
+### Features
+
+* Added document component ([4d9c1d2](https://github.com/mkayander/shorter/commit/4d9c1d2e6da67ad80c008c83472409234a98cccb))
+* Updated favicon ([2c6a18a](https://github.com/mkayander/shorter/commit/2c6a18abeb84de686d762b5aec0af55b2cb67587))
+* Updated IDE meta files ([09fcaa4](https://github.com/mkayander/shorter/commit/09fcaa4bdaab6df69d4f522b6b833036af82b3c1))
+
 # [1.4.0](https://github.com/mkayander/shorter/compare/v1.3.0...v1.4.0) (2022-10-18)
 
 
